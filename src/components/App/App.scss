@@ -1,0 +1,10 @@
+.photo-list {
+  max-width: calc(10px * 10 + 150px * 5);
+  margin: 0 auto;
+  display: block;
+}
+.photo {
+  margin: 10px;
+  float: left;
+  display: inline;
+}
